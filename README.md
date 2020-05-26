@@ -15,6 +15,7 @@ ArticlsApp 솔루션
   ArticlesApp 데이터베이스
   
 ## 리포지토리 패턴과 리포지토리 인터페이스
+  Dul 패키지 추가
   IArticleRepository.cs
   ArticleRepository.cs (ArticleRepositoryuAdoNet, ArticleRepositoryDapper, ArticleRepositoryEfCore...)
   
