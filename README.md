@@ -13,3 +13,10 @@ ArticlsApp 솔루션
   Article.cs 모델 클래스
   Articles.sql 테이블
   ArticlesApp 데이터베이스
+  
+## 리포지토리 패턴과 리포지토리 인터페이스
+  IArticleRepository.cs
+  ArticleRepository.cs (ArticleRepositoryuAdoNet, ArticleRepositoryDapper, ArticleRepositoryEfCore...)
+  
+## 데이터베이스 컨텍스트 클래스 DBContext  
+  ArticleDbContext.cs
