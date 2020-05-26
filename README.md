@@ -8,3 +8,8 @@ ArticlsApp 솔루션
   ArticlsApp.Medels
   ArticlsApp.Medels.Tests
   ArticlsApp.SqlServer
+
+최소 크기의 모델과 테이블 생성 그리고 로컬 데이터베이스 게시
+  Article.cs 모델 클래스
+  Articles.sql 테이블
+  ArticlesApp 데이터베이스
